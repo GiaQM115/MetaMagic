@@ -19,7 +19,7 @@ if not 'results' in os.listdir():
 		print('ERROR: could not make results directory!')
 		exit()
 
-outfile = open("display_data.txt", 'w')
+outfile = open("results/display_data.txt", 'w')
 
 print("===EXTRACTING METADATA===")
 for f in os.listdir(data_dir):
