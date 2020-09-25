@@ -13,6 +13,7 @@ def _parsePDFtk(tag_list):
 				tags.add(line[0:line.index(":")])
 			except:
 				pass
+	tags_by_file("PDFtk", tags)
 	return tags
 
 
@@ -23,6 +24,7 @@ def _parseImageMagick(tag_list):
 			for i in range(0,len(line)-2):
 				if line[i] == ":" and line[i+1] == " ":
 					tags.add(line[0:i])
+	tags_by_file("ImageMagick", tags)
 	return tags
 
 
@@ -33,6 +35,7 @@ def _parseExiftool(tag_list):
 			tags.add(line[0:line.index(":")].rstrip())
 		except:
 			pass
+	tags_by_file("Exiftool", tags)
 	return tags
 
 
@@ -44,6 +47,15 @@ def parser(tool, tags, fname):
 	except:
 		ret = f"Error in tag parsing for {fname} from {tool}"
 	return ret
+
+
+def tags_by_file(tool, tags):
+	global switcher2
+	tagset = switcher2.get(tool)
+	try:
+		tagset.update(tags)
+	except:
+		print(f"Could not update tags for {tool}")
 
 files = []
 with open('results/display_data.txt', 'r') as infile:
@@ -59,6 +71,12 @@ switcher = {
 	'PDFtk' : _parsePDFtk,
 	'ImageMagick': _parseImageMagick,
 	'Exiftool': _parseExiftool
+}
+
+switcher2 = {
+	'PDFtk' : set(),
+	'ImageMagick': set(),
+	'Exiftool': set()
 }
 
 all_tags = set()
@@ -80,5 +98,11 @@ with open("results/taglist.txt", "w") as outfile:
 	outfile.write(f"Found {len(tags_final)} unique tags from 3 tools.\n")
 	for t in sorted(tags_final, key=str.casefold):
 		outfile.write(f"{t}\n")
+
+for k in switcher2.keys():
+	f = open(f'results/{k}_tags.txt', 'w')
+	for tag in switcher2.get(k):
+		f.write(f"{tag}\n")
+	f.close()
 
 print("List of tags written to results/taglist.txt")
