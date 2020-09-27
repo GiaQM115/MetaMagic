@@ -1,5 +1,10 @@
 import subprocess
 import os
+import sys
+
+if len(sys.argv) != 2:
+	print("USAGE: python3 scrub.py path/to/files")
+	exit()
 
 def _parsePDFtk(tag_list):
 	if len(tag_list) == 0:
@@ -102,7 +107,7 @@ def edit_metadata(tool, filename, metadata):
 	return tags
 
 
-data_dir = '/home/giaqm/Desktop/pentesting/metadata_lab/files/'
+data_dir = sys.argv[1]
 data = []
 
 with open('results/display_data.txt', 'r') as infile:

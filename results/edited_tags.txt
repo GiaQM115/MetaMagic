@@ -1,68 +1,69 @@
 Updated the following tags with Exiftool
+Thumbnail Image
+Shutter Speed Value
 Y Cb Cr Positioning
-Author
-Custom Rendered
 Thumbnail Offset
-File Size
-Saturation
-Digital Zoom Ratio
-File Inode Change Date/Time
-Components Configuration
-F Number
-File Modification Date/Time
 Exif Version
-Flashpix Version
-Contrast
-Exposure Mode
-Metering Mode
-Scene Type
+Flash
+Shutter Speed
+Comment
+Producer
+Saturation
+Pixel Units
+X Resolution
+Keywords
+Camera Model Name
+F Number
+Sharpness
+Scene Capture Type
+Create Date
 File Access Date/Time
 Make
-Compression
-Resolution Unit
-Scene Capture Type
-Shutter Speed
-Color Space
-Orientation
-Brightness Value
-White Balance
-Aperture
-Exif Image Height
-Pixels Per Unit Y
-Thumbnail Image
-Interoperability Index
-Focal Length
-Create Date
-Light Source
-X Resolution
-Date/Time Original
-Warning
-Aperture Value
 Y Resolution
-Exif Image Width
-Thumbnail Length
-Comment
-Shutter Speed Value
-Producer
-Pixels Per Unit X
-Sharpness
-Camera Model Name
-Exposure Time
-Interoperability Version
+Metering Mode
+Light Source
+White Balance
 Creator
-Keywords
-Flash
+Focal Length
+Brightness Value
 Title
-Modify Date
-Pixel Units
-Exif Byte Order
+Thumbnail Length
+File Size
+Orientation
+Date/Time Original
+Color Space
+Compression
 Max Aperture Value
+Aperture
+File Modification Date/Time
+Resolution Unit
+Interoperability Version
+Exif Image Width
+Pixels Per Unit Y
+Exposure Mode
+Modify Date
+Exif Image Height
+Digital Zoom Ratio
+File Inode Change Date/Time
+Custom Rendered
+Flashpix Version
+Exposure Time
+Aperture Value
+Pixels Per Unit X
+Scene Type
+Components Configuration
+Directory
+Interoperability Index
+Exif Byte Order
+Author
+Contrast
+Warning
 --------------------------------------------------
 Updated the following tags with ImageMagick
 --------------------------------------------------
 Updated the following tags with PDFtk
-Author
-Title
-Producer
 Keywords
+Author
+Producer
+Title
 --------------------------------------------------
