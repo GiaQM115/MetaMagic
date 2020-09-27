@@ -1,0 +1,211 @@
+Found 210 unique tags from 3 tools.
+alpha
+Aperture
+Aperture Value
+Author
+Background color
+Background Color
+Base type
+Bit Depth
+Bits Per Sample
+blue
+blue primary
+Border color
+Brightness Value
+Camera Model Name
+Class
+Color Components
+Color Space
+Color Type
+Colors
+Colorspace
+Comment
+Components Configuration
+Compose
+Compression
+Contrast
+Create Date
+CreationDate
+Creator
+Custom Rendered
+Date/Time Original
+date:create
+date:modify
+Depth
+Digital Zoom Ratio
+Directory
+Dispose
+Elapsed time
+Encoding Process
+Encryption
+Endianess
+entropy
+Error
+Exif Byte Order
+Exif Image Height
+Exif Image Width
+Exif Version
+exif:ApertureValue
+exif:BrightnessValue
+exif:ColorSpace
+exif:ComponentsConfiguration
+exif:Contrast
+exif:CustomRendered
+exif:DateTime
+exif:DateTimeDigitized
+exif:DateTimeOriginal
+exif:DigitalZoomRatio
+exif:ExifOffset
+exif:ExifVersion
+exif:ExposureMode
+exif:ExposureTime
+exif:Flash
+exif:FlashPixVersion
+exif:FNumber
+exif:FocalLength
+exif:GPSInfo
+exif:InteroperabilityOffset
+exif:LightSource
+exif:Make
+exif:MakerNote
+exif:MaxApertureValue
+exif:MeteringMode
+exif:Model
+exif:Orientation
+exif:PixelXDimension
+exif:PixelYDimension
+exif:ResolutionUnit
+exif:Saturation
+exif:SceneCaptureType
+exif:SceneType
+exif:Sharpness
+exif:ShutterSpeedValue
+exif:thumbnail:Compression
+exif:thumbnail:InteroperabilityIndex
+exif:thumbnail:InteroperabilityVersion
+exif:thumbnail:JPEGInterchangeFormat
+exif:thumbnail:JPEGInterchangeFormatLength
+exif:thumbnail:ResolutionUnit
+exif:thumbnail:XResolution
+exif:thumbnail:YResolution
+exif:WhiteBalance
+exif:XResolution
+exif:YCbCrPositioning
+exif:YResolution
+ExifTool Version Number
+Exposure Mode
+Exposure Time
+F Number
+File Access Date/Time
+File Inode Change Date/Time
+File Modification Date/Time
+File Name
+File Permissions
+File Size
+File Type
+File Type Extension
+filename
+Filesize
+Filter
+Flash
+Flashpix Version
+Focal Length
+Format
+Gamma
+Geometry
+green
+green primary
+identify-im6.q16
+Image
+Image Height
+Image Size
+Image Width
+Intensity
+Interlace
+Interoperability Index
+Interoperability Version
+Iterations
+jpeg:colorspace
+jpeg:sampling-factor
+Keywords
+kurtosis
+Language
+Light Source
+Linearized
+Make
+Matte color
+max
+Max Aperture Value
+mean
+Megapixels
+Metering Mode
+MIME Type
+Mime type
+min
+ModDate
+Modify Date
+Number pixels
+NumberOfPages
+Orientation
+Page Count
+Page geometry
+PageMediaDimensions
+PageMediaNumber
+PageMediaRect
+PageMediaRotation
+PDF Version
+PdfID0
+PdfID1
+Pixel Units
+Pixels
+Pixels per second
+Pixels Per Unit X
+Pixels Per Unit Y
+png:bKGD
+png:IHDR.bit-depth-orig
+png:IHDR.bit_depth
+png:IHDR.color-type-orig
+png:IHDR.color_type
+png:IHDR.interlace_method
+png:IHDR.width,height
+png:pHYs
+png:sRGB
+png:tIME
+Print size
+Producer
+Profile-exif
+Quality
+red
+red primary
+Rendering intent
+Resolution
+Resolution Unit
+Saturation
+Scene Capture Type
+Scene Type
+Sharpness
+Shutter Speed
+Shutter Speed Value
+signature
+skewness
+standard deviation
+Tagged PDF
+Tainted
+Thumbnail Image
+Thumbnail Length
+Thumbnail Offset
+Title
+Transparent color
+Type
+Units
+User Access
+User time
+verbose
+Version
+Warning
+White Balance
+white point
+X Resolution
+Y Cb Cr Positioning
+Y Cb Cr Sub Sampling
+Y Resolution

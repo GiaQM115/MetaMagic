@@ -1,0 +1,14 @@
+Title
+PageMediaDimensions
+ModDate
+PdfID1
+Keywords
+PageMediaNumber
+Author
+PageMediaRect
+Creator
+PageMediaRotation
+PdfID0
+NumberOfPages
+Producer
+CreationDate

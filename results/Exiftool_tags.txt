@@ -1,0 +1,86 @@
+Scene Type
+Compression
+Digital Zoom Ratio
+Saturation
+Interoperability Index
+Orientation
+Title
+File Type
+Comment
+Custom Rendered
+Y Resolution
+File Access Date/Time
+File Inode Change Date/Time
+File Permissions
+Interoperability Version
+Camera Model Name
+Color Type
+File Name
+Thumbnail Image
+Producer
+Exif Byte Order
+Max Aperture Value
+Encryption
+User Access
+Keywords
+White Balance
+Author
+Create Date
+Exposure Mode
+Focal Length
+Pixels Per Unit Y
+Interlace
+Directory
+File Type Extension
+Image Height
+Components Configuration
+X Resolution
+Exif Image Width
+MIME Type
+Tagged PDF
+Encoding Process
+Creator
+Image Width
+Metering Mode
+Aperture
+Contrast
+Exif Version
+Filter
+Light Source
+Color Space
+Scene Capture Type
+File Modification Date/Time
+Color Components
+File Size
+Make
+ExifTool Version Number
+Resolution Unit
+Linearized
+Brightness Value
+Aperture Value
+Y Cb Cr Sub Sampling
+Warning
+Language
+Exposure Time
+Shutter Speed
+Error
+Sharpness
+Image Size
+Exif Image Height
+Pixels Per Unit X
+Flash
+Y Cb Cr Positioning
+Date/Time Original
+Shutter Speed Value
+Pixel Units
+F Number
+Bits Per Sample
+Thumbnail Length
+Thumbnail Offset
+Background Color
+Flashpix Version
+PDF Version
+Page Count
+Megapixels
+Modify Date
+Bit Depth

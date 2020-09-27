@@ -1,0 +1,165 @@
+exif:Make
+exif:YCbCrPositioning
+3
+jpeg:sampling-factor
+Units
+Format
+Version
+red
+exif:ExposureMode
+16
+Matte color
+22
+Iterations
+17
+exif:SceneCaptureType
+19
+Filesize
+Class
+max
+png:pHYs
+99
+24
+green primary
+signature
+exif:thumbnail:Compression
+Resolution
+32
+Pixels
+png:bKGD
+Image
+21
+exif:Orientation
+exif:ExposureTime
+171
+exif:MaxApertureValue
+alpha
+Pixels per second
+exif:DateTime
+png:sRGB
+red primary
+exif:Contrast
+Page geometry
+exif:WhiteBalance
+27
+exif:Model
+date:create
+identify-im6.q16
+45
+exif:Saturation
+exif:MeteringMode
+121
+verbose
+8
+Compose
+52
+skewness
+10
+exif:ResolutionUnit
+exif:PixelYDimension
+6
+exif:Flash
+23
+7
+35
+entropy
+33
+Background color
+Profile-exif
+Gamma
+12
+Endianess
+14
+exif:ExifOffset
+kurtosis
+min
+exif:FNumber
+13
+png:IHDR.bit_depth
+exif:thumbnail:JPEGInterchangeFormatLength
+exif:BrightnessValue
+Print size
+white point
+exif:PixelXDimension
+240302
+Rendering intent
+green
+Compression
+29
+1
+exif:DateTimeOriginal
+Depth
+Colorspace
+exif:LightSource
+Orientation
+38
+exif:CustomRendered
+Tainted
+5
+exif:ShutterSpeedValue
+exif:thumbnail:YResolution
+exif:thumbnail:JPEGInterchangeFormat
+Colors
+Dispose
+exif:ColorSpace
+Intensity
+Base type
+Quality
+png:IHDR.color-type-orig
+26
+png:IHDR.color_type
+exif:XResolution
+standard deviation
+exif:DigitalZoomRatio
+exif:thumbnail:ResolutionUnit
+mean
+11
+exif:ComponentsConfiguration
+42
+Interlace
+exif:Sharpness
+png:IHDR.interlace_method
+11895
+25
+Number pixels
+Elapsed time
+36
+4
+9
+exif:thumbnail:InteroperabilityIndex
+exif:ExifVersion
+exif:FocalLength
+exif:thumbnail:XResolution
+exif:GPSInfo
+png:tIME
+55
+exif:YResolution
+filename
+2
+png:IHDR.width,height
+49
+15
+exif:FlashPixVersion
+jpeg:colorspace
+exif:SceneType
+User time
+34
+exif:DateTimeDigitized
+blue
+exif:ApertureValue
+Transparent color
+Geometry
+20
+18
+blue primary
+png:IHDR.bit-depth-orig
+Mime type
+28
+date:modify
+exif:thumbnail:InteroperabilityVersion
+exif:MakerNote
+39
+50
+Border color
+exif:InteroperabilityOffset
+Type
