@@ -1,6 +1,9 @@
 import subprocess
+import os
 
 def _parsePDFtk(tag_list):
+	if len(tag_list) == 0:
+		return set()
 	if tag_list[-1] == "Done.  Input errors, so no output created.":
 		return ''
 	tags = set()
@@ -38,7 +41,32 @@ def _parseExiftool(tag_list):
 
 def _pdftk(name, tags):
 	global data_dir
-	return f"pdftk: {name}"
+	global pdftk_change_keys
+	try:
+		subprocess.getoutput(f'pdftk {data_dir}{name} dump_data output pdftk_out.txt')
+		with open('pdftk_out.txt', 'r') as infile:
+			outfile = open('pdftk_scrub.txt', 'w')
+			change_found = False
+			for line in infile:
+				for key in pdftk_change_keys:
+					if line == f"InfoKey: {key}\n":
+						change_found = True
+						break
+				if change_found and line[0:9] == "InfoValue":
+						outfile.write("InfoValue: \n")
+						change_found = False
+						continue
+				outfile.write(line)
+			outfile.close()
+		os.remove('pdftk_out.txt')
+						
+		subprocess.getoutput(f'pdftk {data_dir}{name} update_info pdftk_scrub.txt output {data_dir}pdftk_scrubbed/{name}')
+		os.remove('pdftk_scrub.txt')
+		ret = subprocess.getoutput(f'pdftk {data_dir}pdftk_scrubbed/{name} dump_data')
+	except:
+		ret = None
+		print(f'Error scrubbing {name} with PDFtk')
+	return ret
 
 
 def _exiftool(name, tags):
@@ -52,6 +80,10 @@ def _exiftool(name, tags):
 	except:
 		ret = None
 	finally:
+		try:
+			os.rename(f'{data_dir}{name}_original', f'{data_dir}{name}')
+		except:
+			pass
 		return ret
 
 def _imagemagick(name, tags):
@@ -73,10 +105,10 @@ def edit_metadata(tool, filename, metadata):
 			taglist.append(line)
 	func = switcher2.get(tool)
 	tags = func(taglist)
+	print(f'{filename.upper()} FROM {tool.upper()}')
+	print(taglist)
 	print("-"*50)
-	print(f'Scrubbed with {tool}:')
-	for tag in tags:
-		print(f'\t{tag}')
+	return edited
 
 
 data_dir = '/home/giaqm/Desktop/pentesting/metadata_lab/files/'
@@ -111,6 +143,13 @@ tag_dict = {
 	'PDFtk': list()
 }
 
+pdftk_change_keys = ['Title', 'Author', 'Subject', 'Producer', 'Keywords']
+
+try:
+	os.mkdir(f'{data_dir}pdftk_scrubbed/')
+except:
+	pass
+
 for tool in tag_dict.keys():
 	f = open(f'results/{tool}_tags.txt', 'r')
 	tag_dict[tool] = list(map(str.strip, f.readlines()))
@@ -120,4 +159,5 @@ for entry in data[1:]:
 	tool = entry[1].split(" ")[-1]
 	filename = entry[1].split(" ")[0]
 	metadata = entry[3::]
+	print(f'Scrubbing {tool}\'s metadata for {filename}')
 	edit_metadata(tool, filename, metadata)
