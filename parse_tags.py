@@ -97,7 +97,7 @@ for t in all_tags:
 with open("results/taglist.txt", "w") as outfile:
 	outfile.write(f"Found {len(tags_final)} unique tags from 3 tools.\n")
 	for t in sorted(tags_final, key=str.casefold):
-		outfile.write(f"{t}\n")
+		outfile.write(f"{t.lstrip()}\n")
 
 for k in switcher2.keys():
 	f = open(f'results/{k}_tags.txt', 'w')

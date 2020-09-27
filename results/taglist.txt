@@ -3,8 +3,8 @@ alpha
 Aperture
 Aperture Value
 Author
-Background color
 Background Color
+Background color
 Base type
 Bit Depth
 Bits Per Sample
