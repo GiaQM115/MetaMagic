@@ -1,4 +1,4 @@
-Found 210 unique tags from 3 tools.
+210 tags remained unchanged
 alpha
 Aperture
 Aperture Value

@@ -1,86 +1,86 @@
-Comment
-Focal Length
-Contrast
-Author
-Make
-Creator
-Thumbnail Length
-Aperture Value
-Image Size
-Light Source
-Color Space
-Interlace
-Interoperability Index
-Encryption
-User Access
-Linearized
-File Size
-Background Color
-Exposure Time
-Create Date
-X Resolution
-Image Height
-Image Width
-File Type
-Components Configuration
-Title
-Exif Version
-Shutter Speed Value
-Warning
-Bit Depth
-Y Cb Cr Sub Sampling
-Directory
-Thumbnail Image
-Thumbnail Offset
-Megapixels
-Encoding Process
-Y Cb Cr Positioning
-Exif Image Width
-Y Resolution
-Filter
-Flashpix Version
-Brightness Value
-Pixel Units
-File Type Extension
-Color Type
-Flash
-Page Count
-Interoperability Version
-Exposure Mode
-Custom Rendered
-File Modification Date/Time
-Exif Byte Order
-Sharpness
-Date/Time Original
-Shutter Speed
-Max Aperture Value
-White Balance
-F Number
-Compression
-Producer
-Language
 File Name
-PDF Version
-Keywords
-Tagged PDF
-Pixels Per Unit Y
-Scene Type
-Camera Model Name
-File Access Date/Time
-Bits Per Sample
-Orientation
-ExifTool Version Number
-Pixels Per Unit X
+File Size
+Custom Rendered
 Scene Capture Type
-Modify Date
-MIME Type
 Digital Zoom Ratio
-Aperture
-Resolution Unit
-Error
-Saturation
-File Permissions
-Color Components
+Interoperability Index
+Shutter Speed Value
+Modify Date
+Camera Model Name
+MIME Type
+Contrast
+Encoding Process
+Light Source
+Thumbnail Offset
+Author
+Focal Length
+Color Space
+Page Count
+PDF Version
+Image Size
+Compression
 File Inode Change Date/Time
-Exif Image Height
+Exposure Time
+Orientation
+Create Date
+F Number
 Metering Mode
+Date/Time Original
+File Modification Date/Time
+Color Components
+Directory
+Pixels Per Unit X
+Exif Image Width
+Title
+Brightness Value
+File Access Date/Time
+Max Aperture Value
+Exif Image Height
+Scene Type
+Comment
+Creator
+Megapixels
+File Type Extension
+Y Resolution
+Interoperability Version
+Saturation
+Exif Version
+Image Width
+Linearized
+Pixels Per Unit Y
+Interlace
+Sharpness
+Language
+User Access
+Bits Per Sample
+Flash
+Make
+Flashpix Version
+Exposure Mode
+Keywords
+File Type
+Pixel Units
+Aperture Value
+Thumbnail Length
+Thumbnail Image
+Error
+ExifTool Version Number
+Background Color
+Components Configuration
+Shutter Speed
+Encryption
+Filter
+Resolution Unit
+Tagged PDF
+Image Height
+White Balance
+Y Cb Cr Positioning
+Warning
+Aperture
+Bit Depth
+Producer
+Y Cb Cr Sub Sampling
+Color Type
+X Resolution
+File Permissions
+Exif Byte Order
