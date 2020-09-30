@@ -139,8 +139,8 @@ Max Aperture Value
 mean
 Megapixels
 Metering Mode
-MIME Type
 Mime type
+MIME Type
 min
 ModDate
 Modify Date

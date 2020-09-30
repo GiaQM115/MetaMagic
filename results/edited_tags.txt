@@ -1,69 +1,68 @@
 Updated the following tags with Exiftool
-Thumbnail Image
-Shutter Speed Value
-Y Cb Cr Positioning
-Thumbnail Offset
-Exif Version
-Flash
-Shutter Speed
-Comment
-Producer
-Saturation
-Pixel Units
-X Resolution
-Keywords
-Camera Model Name
-F Number
-Sharpness
-Scene Capture Type
-Create Date
-File Access Date/Time
-Make
-Y Resolution
-Metering Mode
-Light Source
-White Balance
-Creator
-Focal Length
-Brightness Value
-Title
-Thumbnail Length
-File Size
-Orientation
-Date/Time Original
-Color Space
-Compression
-Max Aperture Value
-Aperture
-File Modification Date/Time
-Resolution Unit
-Interoperability Version
-Exif Image Width
-Pixels Per Unit Y
-Exposure Mode
-Modify Date
-Exif Image Height
-Digital Zoom Ratio
-File Inode Change Date/Time
-Custom Rendered
-Flashpix Version
 Exposure Time
+Camera Model Name
+Thumbnail Offset
+Brightness Value
+Producer
 Aperture Value
-Pixels Per Unit X
+White Balance
+Resolution Unit
+Y Cb Cr Positioning
+Pixels Per Unit Y
+Create Date
+Exif Image Height
+Flashpix Version
+File Access Date/Time
+Saturation
 Scene Type
-Components Configuration
-Directory
-Interoperability Index
-Exif Byte Order
-Author
-Contrast
+Interoperability Version
+Exif Version
+Light Source
 Warning
+Exif Image Width
+Contrast
+Digital Zoom Ratio
+Shutter Speed
+File Modification Date/Time
+F Number
+File Size
+File Inode Change Date/Time
+Y Resolution
+Thumbnail Image
+Orientation
+Interoperability Index
+Max Aperture Value
+Focal Length
+Metering Mode
+Compression
+Pixels Per Unit X
+Thumbnail Length
+Scene Capture Type
+Comment
+Components Configuration
+Color Space
+Make
+Custom Rendered
+Exposure Mode
+Sharpness
+Exif Byte Order
+Keywords
+Flash
+X Resolution
+Title
+Creator
+Modify Date
+Pixel Units
+Date/Time Original
+Author
+Aperture
+Shutter Speed Value
 --------------------------------------------------
 Updated the following tags with ImageMagick
 --------------------------------------------------
 Updated the following tags with PDFtk
-Keywords
 Author
-Producer
 Title
+Keywords
+Producer
 --------------------------------------------------

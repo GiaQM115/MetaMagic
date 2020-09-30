@@ -6,11 +6,88 @@ ExifTool Version Number         : 11.88
 File Name                       : unknown.file
 Directory                       : ../../files
 File Size                       : 256 MB
-File Modification Date/Time     : 2020:09:24 21:24:21-07:00
-File Access Date/Time           : 2020:09:26 18:17:14-07:00
-File Inode Change Date/Time     : 2020:09:24 21:24:21-07:00
+File Modification Date/Time     : 2020:09:30 07:35:25-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:25-07:00
 File Permissions                : rw-rw-r--
 Error                           : Unknown file type
+
+---
+Second.pdf extracted with Exiftool
+---
+ExifTool Version Number         : 11.88
+File Name                       : Second.pdf
+Directory                       : ../../files
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
+File Permissions                : rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Motorola
+Camera Model Name               : DROID RAZR HD
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2013:04:27 11:38:50
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/1471
+F Number                        : 2.4
+Exif Version                    : 0220
+Date/Time Original              : 2013:04:27 11:38:50
+Create Date                     : 2013:04:27 11:38:50
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1
+Aperture Value                  : 2.4
+Brightness Value                : undef
+Max Aperture Value              : 2.4
+Metering Mode                   : Average
+Light Source                    : D50
+Flash                           : No Flash
+Focal Length                    : 4.4 mm
+Warning                         : [minor] Unrecognized MakerNotes
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3264
+Exif Image Height               : 2448
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto bracket
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Soft
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 970
+Thumbnail Length                : 26375
+Image Width                     : 3264
+Image Height                    : 2448
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 2.4
+Image Size                      : 3264x2448
+Megapixels                      : 8.0
+Shutter Speed                   : 1/1471
+Thumbnail Image                 : (Binary data 26375 bytes, use -b option to extract)
+Focal Length                    : 4.4 mm
+
+---
+Second.pdf extracted with PDFtk
+---
+Error: Unable to find file.
+Error: Failed to open PDF file: 
+   ../../files//Second.pdf
+Done.  Input errors, so no output created.
 
 ---
 Secrets.png extracted with Exiftool
@@ -19,9 +96,9 @@ ExifTool Version Number         : 11.88
 File Name                       : Secrets.png
 Directory                       : ../../files
 File Size                       : 90 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 15:22:15-07:00
-File Inode Change Date/Time     : 2020:09:24 21:24:15-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PDF
 File Type Extension             : pdf
@@ -44,9 +121,9 @@ ExifTool Version Number         : 11.88
 File Name                       : Second.png
 Directory                       : ../../files
 File Size                       : 13 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 18:17:14-07:00
-File Inode Change Date/Time     : 2020:09:26 18:09:34-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PNG
 File Type Extension             : png
@@ -405,8 +482,8 @@ Image: ../../files//Second.png
   Compression: Zip
   Orientation: Undefined
   Properties:
-    date:create: 2020-09-26T18:09:34-07:00
-    date:modify: 2020-09-24T21:24:15-07:00
+    date:create: 2020-09-30T07:35:24-07:00
+    date:modify: 2020-09-30T07:35:24-07:00
     png:bKGD: chunk was found (see Background color, above)
     png:IHDR.bit-depth-orig: 8
     png:IHDR.bit_depth: 8
@@ -429,41 +506,15 @@ Image: ../../files//Second.png
   Version: ImageMagick 6.9.10-23 Q16 x86_64 20190101 https://imagemagick.org
 
 ---
-pdftk_scrubbed extracted with Exiftool
----
-======== ../../files//pdftk_scrubbed/First.pdf
-ExifTool Version Number         : 11.88
-File Name                       : First.pdf
-Directory                       : ../../files//pdftk_scrubbed
-File Size                       : 195 kB
-File Modification Date/Time     : 2020:09:26 18:09:35-07:00
-File Access Date/Time           : 2020:09:26 18:09:35-07:00
-File Inode Change Date/Time     : 2020:09:26 18:09:35-07:00
-File Permissions                : rw-rw-r--
-File Type                       : PDF
-File Type Extension             : pdf
-MIME Type                       : application/pdf
-PDF Version                     : 1.5
-Linearized                      : No
-Creator                         : Microsoft® Word 2013
-Modify Date                     : 2013:06:26 05:13:22-04:00
-Create Date                     : 2013:06:26 05:13:22-04:00
-Language                        : en-US
-Tagged PDF                      : Yes
-Page Count                      : 1
-    1 directories scanned
-    1 image files read
-
----
 First.pdf extracted with Exiftool
 ---
 ExifTool Version Number         : 11.88
 File Name                       : First.pdf
 Directory                       : ../../files
 File Size                       : 184 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 18:09:35-07:00
-File Inode Change Date/Time     : 2020:09:26 18:09:34-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PDF
 File Type Extension             : pdf
@@ -521,9 +572,9 @@ ExifTool Version Number         : 11.88
 File Name                       : Second.jpg
 Directory                       : ../../files
 File Size                       : 2.2 MB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 18:09:36-07:00
-File Inode Change Date/Time     : 2020:09:26 18:09:36-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -659,8 +710,8 @@ Image: ../../files//Second.jpg
   Quality: 95
   Orientation: TopLeft
   Properties:
-    date:create: 2020-09-26T18:09:36-07:00
-    date:modify: 2020-09-24T21:24:15-07:00
+    date:create: 2020-09-30T07:35:24-07:00
+    date:modify: 2020-09-30T07:35:24-07:00
     exif:ApertureValue: 252600/100000
     exif:BrightnessValue: 0/0
     exif:ColorSpace: 1
@@ -719,9 +770,9 @@ Image: ../../files//Second.jpg
   Tainted: False
   Filesize: 2.17MiB
   Number pixels: 7.99027M
-  Pixels per second: 72.6388MB
-  User time: 0.100u
-  Elapsed time: 0:01.109
+  Pixels per second: 88780800B
+  User time: 0.080u
+  Elapsed time: 0:01.089
   Version: ImageMagick 6.9.10-23 Q16 x86_64 20190101 https://imagemagick.org
 
 ---
@@ -731,9 +782,9 @@ ExifTool Version Number         : 11.88
 File Name                       : Secrets.pdf
 Directory                       : ../../files
 File Size                       : 90 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 15:22:20-07:00
-File Inode Change Date/Time     : 2020:09:24 21:24:15-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PDF
 File Type Extension             : pdf
@@ -759,9 +810,9 @@ ExifTool Version Number         : 11.88
 File Name                       : Secrets.jpeg
 Directory                       : ../../files
 File Size                       : 90 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 15:22:21-07:00
-File Inode Change Date/Time     : 2020:09:24 21:24:15-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PDF
 File Type Extension             : pdf
@@ -784,9 +835,9 @@ ExifTool Version Number         : 11.88
 File Name                       : First.png
 Directory                       : ../../files
 File Size                       : 184 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 15:22:22-07:00
-File Inode Change Date/Time     : 2020:09:24 21:24:15-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PDF
 File Type Extension             : pdf
@@ -816,9 +867,9 @@ ExifTool Version Number         : 11.88
 File Name                       : Secrets.jpg
 Directory                       : ../../files
 File Size                       : 90 kB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 15:22:22-07:00
-File Inode Change Date/Time     : 2020:09:24 21:24:15-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : PDF
 File Type Extension             : pdf
@@ -841,9 +892,9 @@ ExifTool Version Number         : 11.88
 File Name                       : First.jpg
 Directory                       : ../../files
 File Size                       : 2.2 MB
-File Modification Date/Time     : 2020:09:24 21:24:15-07:00
-File Access Date/Time           : 2020:09:26 18:09:37-07:00
-File Inode Change Date/Time     : 2020:09:26 18:09:37-07:00
+File Modification Date/Time     : 2020:09:30 07:35:24-07:00
+File Access Date/Time           : 2020:09:30 07:35:24-07:00
+File Inode Change Date/Time     : 2020:09:30 07:35:24-07:00
 File Permissions                : rw-rw-r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -979,8 +1030,8 @@ Image: ../../files//First.jpg
   Quality: 95
   Orientation: TopLeft
   Properties:
-    date:create: 2020-09-26T18:09:37-07:00
-    date:modify: 2020-09-24T21:24:15-07:00
+    date:create: 2020-09-30T07:35:24-07:00
+    date:modify: 2020-09-30T07:35:24-07:00
     exif:ApertureValue: 252600/100000
     exif:BrightnessValue: 0/0
     exif:ColorSpace: 1
@@ -1041,5 +1092,5 @@ Image: ../../files//First.jpg
   Number pixels: 7.99027M
   Pixels per second: 99.8784MB
   User time: 0.080u
-  Elapsed time: 0:01.080
+  Elapsed time: 0:01.079
   Version: ImageMagick 6.9.10-23 Q16 x86_64 20190101 https://imagemagick.org
