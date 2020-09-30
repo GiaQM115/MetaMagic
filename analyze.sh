@@ -1,4 +1,5 @@
 clear
+cat logo
 echo Please provide the path to files:
 read path_in
 
