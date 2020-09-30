@@ -1,6 +1,6 @@
 # Welcome to MetaMagic
 **MetaMagic** is a command line tool that utilizes 3 free, cross-platform, open-source tools to view, analyze and edit the metadata in various files.
----
+
 ## Contents
 * **analyze.sh**: driver for execution
 * **display_data.py**: extract metadata from files and save output to results directory
