@@ -1,86 +1,86 @@
-File Name
-File Size
-Custom Rendered
-Scene Capture Type
-Digital Zoom Ratio
-Interoperability Index
-Shutter Speed Value
-Modify Date
-Camera Model Name
-MIME Type
-Contrast
-Encoding Process
-Light Source
-Thumbnail Offset
-Author
-Focal Length
-Color Space
-Page Count
-PDF Version
-Image Size
-Compression
-File Inode Change Date/Time
-Exposure Time
-Orientation
-Create Date
-F Number
-Metering Mode
-Date/Time Original
-File Modification Date/Time
-Color Components
-Directory
-Pixels Per Unit X
+Keywords
+Warning
 Exif Image Width
-Title
-Brightness Value
-File Access Date/Time
-Max Aperture Value
-Exif Image Height
-Scene Type
-Comment
-Creator
-Megapixels
-File Type Extension
-Y Resolution
-Interoperability Version
-Saturation
+Author
+Encryption
+Thumbnail Length
+User Access
+Language
+Flash
+File Size
 Exif Version
-Image Width
-Linearized
+File Name
+Filter
+Bits Per Sample
+Light Source
+Flashpix Version
+Make
 Pixels Per Unit Y
 Interlace
-Sharpness
-Language
-User Access
-Bits Per Sample
-Flash
-Make
-Flashpix Version
-Exposure Mode
-Keywords
+Interoperability Version
 File Type
-Pixel Units
-Aperture Value
-Thumbnail Length
-Thumbnail Image
-Error
-ExifTool Version Number
-Background Color
-Components Configuration
-Shutter Speed
-Encryption
-Filter
-Resolution Unit
-Tagged PDF
-Image Height
-White Balance
-Y Cb Cr Positioning
-Warning
-Aperture
-Bit Depth
-Producer
-Y Cb Cr Sub Sampling
-Color Type
+Comment
+Megapixels
+Creator
+Linearized
+Scene Capture Type
+Exposure Mode
 X Resolution
-File Permissions
+Camera Model Name
+F Number
+Modify Date
+Title
+Shutter Speed
+Color Components
+Contrast
 Exif Byte Order
+Image Size
+Digital Zoom Ratio
+Saturation
+PDF Version
+Exif Image Height
+Directory
+Color Type
+Metering Mode
+Resolution Unit
+Image Height
+Aperture
+File Permissions
+Y Cb Cr Sub Sampling
+Components Configuration
+Focal Length
+File Type Extension
+Interoperability Index
+File Inode Change Date/Time
+Pixels Per Unit X
+File Access Date/Time
+White Balance
+Custom Rendered
+Y Cb Cr Positioning
+Exposure Time
+Background Color
+Date/Time Original
+Aperture Value
+Producer
+Pixel Units
+Y Resolution
+MIME Type
+Orientation
+Bit Depth
+Color Space
+Sharpness
+Encoding Process
+Thumbnail Image
+Max Aperture Value
+Thumbnail Offset
+Scene Type
+Error
+Page Count
+Tagged PDF
+Shutter Speed Value
+ExifTool Version Number
+Brightness Value
+File Modification Date/Time
+Image Width
+Compression
+Create Date
