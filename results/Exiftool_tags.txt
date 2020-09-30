@@ -1,86 +1,86 @@
-Exif Version
+Scene Capture Type
+Compression
+PDF Version
+Keywords
+Pixels Per Unit X
+Orientation
+Aperture Value
+Max Aperture Value
+Color Space
+Page Count
+Background Color
+User Access
+Directory
+Contrast
+Bit Depth
+Pixels Per Unit Y
+Warning
+Creator
+Encoding Process
 Create Date
 File Type Extension
-Warning
-Resolution Unit
-Linearized
-Directory
-Custom Rendered
-Aperture Value
-Components Configuration
-Bits Per Sample
-File Inode Change Date/Time
-Pixels Per Unit X
-Camera Model Name
-Pixels Per Unit Y
-Thumbnail Length
-Thumbnail Offset
-Flashpix Version
-Compression
-File Access Date/Time
-Orientation
-X Resolution
-Comment
-Encoding Process
-Y Cb Cr Positioning
-Error
-Color Space
-Date/Time Original
-Light Source
-Exposure Time
-Pixel Units
-Focal Length
-Contrast
-Thumbnail Image
-Color Type
-Sharpness
-Make
-Y Cb Cr Sub Sampling
-Exposure Mode
-Bit Depth
-Saturation
-File Permissions
-Y Resolution
-Creator
-File Name
-Tagged PDF
-Metering Mode
-Interoperability Version
-Brightness Value
-Interlace
-File Modification Date/Time
-Shutter Speed
-PDF Version
-Language
-Title
-ExifTool Version Number
-User Access
-Image Size
-Keywords
-Flash
-Exif Image Height
-Color Components
-Max Aperture Value
-Image Width
-Encryption
-Interoperability Index
-Scene Type
-Megapixels
-Shutter Speed Value
-Background Color
-Filter
-F Number
-Scene Capture Type
-Modify Date
 White Balance
-Exif Image Width
-Exif Byte Order
-File Size
 Image Height
-File Type
-Author
-Producer
-Aperture
-Page Count
+Sharpness
 MIME Type
+Megapixels
 Digital Zoom Ratio
+Saturation
+Shutter Speed
+Y Cb Cr Sub Sampling
+Y Cb Cr Positioning
+Color Components
+Comment
+Focal Length
+File Type
+Exif Image Height
+Thumbnail Offset
+Exif Version
+File Access Date/Time
+Thumbnail Image
+Filter
+Linearized
+Color Type
+Modify Date
+Language
+Metering Mode
+Exif Byte Order
+File Inode Change Date/Time
+X Resolution
+Flashpix Version
+Aperture
+Make
+Flash
+Image Size
+Pixel Units
+Author
+Interoperability Version
+Encryption
+Exposure Time
+File Permissions
+Camera Model Name
+Brightness Value
+File Name
+Resolution Unit
+Bits Per Sample
+Components Configuration
+F Number
+Date/Time Original
+File Size
+Custom Rendered
+File Modification Date/Time
+Error
+Interoperability Index
+Thumbnail Length
+Producer
+Shutter Speed Value
+Exposure Mode
+Interlace
+Light Source
+Tagged PDF
+Title
+Image Width
+Y Resolution
+Scene Type
+ExifTool Version Number
+Exif Image Width

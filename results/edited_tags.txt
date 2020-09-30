@@ -1,68 +1,68 @@
 Updated the following tags with Exiftool
-File Size
-Interoperability Index
-File Inode Change Date/Time
-Create Date
-Scene Capture Type
-Aperture
-Thumbnail Image
-Creator
-Thumbnail Length
-Keywords
-File Access Date/Time
-F Number
-X Resolution
-Exif Image Width
-Resolution Unit
-Custom Rendered
 Shutter Speed Value
-Exposure Time
+File Size
+Aperture
 Title
-Modify Date
-Aperture Value
-Focal Length
-Y Resolution
-Pixel Units
-Date/Time Original
-Comment
-Exif Image Height
-Max Aperture Value
-White Balance
-Compression
-Contrast
-Digital Zoom Ratio
-Color Space
-Shutter Speed
-Sharpness
-Exif Version
-Interoperability Version
-Pixels Per Unit X
 Y Cb Cr Positioning
-Exposure Mode
-Author
 Metering Mode
-Camera Model Name
-Light Source
-Components Configuration
+Color Space
 Exif Byte Order
-Producer
+Date/Time Original
+Components Configuration
+Comment
+Y Resolution
+Contrast
+Exif Version
 Flashpix Version
-Thumbnail Offset
-Brightness Value
-Saturation
-Orientation
-Pixels Per Unit Y
-File Modification Date/Time
+F Number
 Make
+Sharpness
+Create Date
+White Balance
+Saturation
+Exposure Time
+Pixels Per Unit Y
+Focal Length
+Pixels Per Unit X
+Max Aperture Value
+Thumbnail Image
+Interoperability Index
+Exif Image Width
+Modify Date
+Pixel Units
+Digital Zoom Ratio
+Interoperability Version
 Flash
+Author
+X Resolution
+Creator
 Scene Type
+Orientation
+Shutter Speed
+Producer
+Camera Model Name
+Custom Rendered
+File Inode Change Date/Time
 Warning
+Exposure Mode
+File Modification Date/Time
+Brightness Value
+Keywords
+Thumbnail Length
+Thumbnail Offset
+Light Source
+Compression
+Resolution Unit
+Exif Image Height
+Aperture Value
+Scene Capture Type
+File Access Date/Time
 --------------------------------------------------
 Updated the following tags with ImageMagick
 --------------------------------------------------
 Updated the following tags with PDFtk
-Title
 Producer
 Keywords
 Author
+Title
 --------------------------------------------------

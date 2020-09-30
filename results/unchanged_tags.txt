@@ -153,157 +153,157 @@ white point
 Y Cb Cr Sub Sampling
 --------------------------------------------------
 Unchanged but Attempted:
-Bits Per Sample
-Error
-File Type Extension
-PageMediaRect
-File Type
-MIME Type
-Interlace
-PageMediaDimensions
-ModDate
-Directory
-Linearized
-Page Count
-PageMediaRotation
-Encoding Process
-Image Height
-PDF Version
-Filter
-NumberOfPages
-PdfID1
-User Access
-File Name
-Tagged PDF
-CreationDate
 ExifTool Version Number
+Encoding Process
 Bit Depth
-Color Components
-PageMediaNumber
-Megapixels
 Encryption
 Image Width
-Background Color
+PdfID1
+File Name
+Color Type
+ModDate
+Directory
+Bits Per Sample
+File Permissions
+Y Cb Cr Sub Sampling
+MIME Type
+File Type Extension
+PageMediaRotation
+Interlace
+File Type
+PageMediaNumber
+NumberOfPages
 Language
+Tagged PDF
+PageMediaRect
+Background Color
+User Access
+Megapixels
+PDF Version
 PdfID0
 Image Size
-Color Type
-Y Cb Cr Sub Sampling
-File Permissions
+Error
+PageMediaDimensions
+Color Components
+Image Height
+Page Count
+CreationDate
+Filter
+Linearized
 --------------------------------------------------
 ImageMagick Only Tags:
-exif:PixelXDimension
-exif:Make
-Filesize
-Image
-kurtosis
-Quality
 min
-Background color
-exif:SceneCaptureType
-date:create
-exif:CustomRendered
-png:sRGB
-verbose
-exif:ExifOffset
-red primary
-red
-Class
-Profile-exif
-Border color
-Dispose
-exif:FocalLength
-exif:PixelYDimension
-exif:Model
-Matte color
-Number pixels
-exif:thumbnail:XResolution
-exif:InteroperabilityOffset
-exif:SceneType
-exif:YCbCrPositioning
-exif:ShutterSpeedValue
-png:IHDR.color_type
-green primary
-exif:thumbnail:JPEGInterchangeFormatLength
-exif:FlashPixVersion
-Iterations
-Base type
-max
-exif:LightSource
-Colorspace
-exif:thumbnail:InteroperabilityVersion
-exif:DigitalZoomRatio
-exif:FNumber
-Tainted
-Colors
-exif:thumbnail:Compression
-png:pHYs
-User time
-exif:ResolutionUnit
-Print size
-exif:DateTimeDigitized
-exif:ExposureMode
-green
-Elapsed time
-white point
-skewness
+exif:MaxApertureValue
+exif:thumbnail:ResolutionUnit
+png:IHDR.bit_depth
 exif:ComponentsConfiguration
+exif:DateTimeDigitized
+exif:thumbnail:XResolution
+png:IHDR.color-type-orig
+green primary
+Print size
+Gamma
+Pixels
+identify-im6.q16
+Iterations
+exif:thumbnail:YResolution
+png:sRGB
+Format
+exif:thumbnail:JPEGInterchangeFormatLength
+exif:XResolution
+png:tIME
+exif:InteroperabilityOffset
+exif:MakerNote
+png:IHDR.interlace_method
+png:IHDR.width,height
+exif:PixelYDimension
+png:IHDR.color_type
+Elapsed time
+jpeg:colorspace
+standard deviation
+Colors
+exif:DigitalZoomRatio
+Intensity
+exif:ApertureValue
+Profile-exif
+exif:PixelXDimension
+date:modify
+exif:ResolutionUnit
+exif:Contrast
+exif:DateTime
+exif:SceneType
+alpha
+verbose
+exif:CustomRendered
+exif:ExposureMode
+Mime type
+User time
+Background color
+exif:Orientation
+exif:thumbnail:InteroperabilityVersion
+png:bKGD
+skewness
+Dispose
+exif:Sharpness
+Depth
+exif:Make
+Class
+filename
+exif:LightSource
+exif:YResolution
+exif:FNumber
+green
+date:create
+exif:BrightnessValue
+white point
+exif:thumbnail:Compression
+png:IHDR.bit-depth-orig
+exif:Model
+Page geometry
+kurtosis
+exif:SceneCaptureType
+mean
+Matte color
+Colorspace
+Geometry
+Border color
+Quality
+exif:FlashPixVersion
+Tainted
+exif:ColorSpace
+Type
+signature
+exif:ExifOffset
+exif:Saturation
+Base type
+red
+max
+Compose
+red primary
+exif:FocalLength
+exif:ExifVersion
 Resolution
 jpeg:sampling-factor
-Mime type
-blue
-exif:Orientation
-Intensity
-png:bKGD
-Pixels per second
-Rendering intent
-exif:YResolution
-exif:Contrast
-Gamma
-png:IHDR.interlace_method
-Geometry
-exif:MaxApertureValue
-exif:DateTimeOriginal
-exif:BrightnessValue
-Pixels
-exif:ApertureValue
-exif:thumbnail:JPEGInterchangeFormat
-entropy
-blue primary
-png:IHDR.bit-depth-orig
-alpha
-png:tIME
-Endianess
-exif:ExposureTime
-exif:DateTime
-exif:GPSInfo
 exif:Flash
-exif:Saturation
-Format
-exif:thumbnail:YResolution
-mean
-Page geometry
-exif:XResolution
-exif:Sharpness
-png:IHDR.bit_depth
+exif:ShutterSpeedValue
 exif:MeteringMode
-signature
-Transparent color
-date:modify
-Depth
-exif:ExifVersion
-png:IHDR.color-type-orig
-exif:MakerNote
-Units
-filename
-jpeg:colorspace
+exif:ExposureTime
+Number pixels
+exif:YCbCrPositioning
+Filesize
 Version
-exif:WhiteBalance
-Compose
-exif:ColorSpace
+Endianess
+exif:DateTimeOriginal
+entropy
+blue
+exif:thumbnail:JPEGInterchangeFormat
+Rendering intent
+Image
+exif:GPSInfo
+Pixels per second
+Transparent color
 exif:thumbnail:InteroperabilityIndex
-exif:thumbnail:ResolutionUnit
-png:IHDR.width,height
-Type
-standard deviation
-identify-im6.q16
+png:pHYs
+Units
+blue primary
+exif:WhiteBalance
