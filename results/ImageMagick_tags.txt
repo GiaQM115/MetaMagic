@@ -1,165 +1,165 @@
-1
-exif:MeteringMode
-blue
-exif:FlashPixVersion
-10
-exif:DateTime
-42
-exif:ResolutionUnit
-exif:thumbnail:JPEGInterchangeFormatLength
-exif:YCbCrPositioning
-Quality
-green
-png:IHDR.color_type
-max
-Elapsed time
-4
-13
-kurtosis
-date:create
-png:IHDR.interlace_method
-identify-im6.q16
-Background color
-22
-16
-exif:ExifOffset
-exif:BrightnessValue
-exif:PixelYDimension
-Profile-exif
-exif:SceneType
-28
-png:IHDR.width,height
-Tainted
-Endianess
-7
-png:bKGD
-29
-exif:thumbnail:YResolution
-exif:WhiteBalance
-240302
-exif:MakerNote
-exif:DateTimeDigitized
-entropy
-33
-exif:thumbnail:JPEGInterchangeFormat
-99
-39
-Intensity
-Resolution
-exif:Make
-11
-Version
-Class
-50
-5
-exif:GPSInfo
-11895
-Image
-15
-skewness
-36
-exif:thumbnail:InteroperabilityVersion
-png:sRGB
-exif:ApertureValue
-25
-52
-49
-alpha
-3
-exif:Sharpness
-red
-Orientation
-55
-exif:DateTimeOriginal
-exif:FNumber
-2
-exif:thumbnail:XResolution
-20
-32
-26
-23
-exif:Model
+exif:YResolution
+121
+green primary
 exif:thumbnail:ResolutionUnit
-exif:ShutterSpeedValue
-6
-standard deviation
-Compression
-Colorspace
+png:IHDR.bit_depth
+10
+png:IHDR.color-type-orig
+kurtosis
+exif:Make
+Border color
+Version
+Rendering intent
+entropy
+exif:DateTimeOriginal
+11
+exif:Contrast
+42
 35
-red primary
-21
-exif:FocalLength
-Pixels per second
 9
 Dispose
-exif:SceneCaptureType
-exif:YResolution
-Pixels
-exif:LightSource
-png:IHDR.color-type-orig
-Filesize
+Orientation
+exif:CustomRendered
+exif:ColorSpace
 jpeg:sampling-factor
-png:IHDR.bit_depth
-Gamma
-date:modify
-17
-Mime type
-Interlace
-exif:MaxApertureValue
-exif:ExifVersion
-verbose
-Format
-Transparent color
-white point
-34
-png:IHDR.bit-depth-orig
-png:tIME
-exif:Contrast
-exif:Flash
-171
-blue primary
-Base type
-27
-Border color
+exif:thumbnail:InteroperabilityVersion
+exif:ApertureValue
+5
+29
+signature
+blue
 filename
-exif:PixelXDimension
-exif:ExposureTime
+Quality
+20
+Depth
+171
+Colors
+33
+22
+Format
+240302
+exif:PixelYDimension
+exif:LightSource
+exif:ExposureMode
+99
+1
+Interlace
+exif:GPSInfo
+green
+exif:ShutterSpeedValue
+png:bKGD
+exif:MaxApertureValue
+39
+2
+identify-im6.q16
+17
+User time
+24
+standard deviation
+png:IHDR.color_type
+6
+white point
+date:modify
+exif:DateTime
+exif:XResolution
+exif:thumbnail:JPEGInterchangeFormat
+exif:Model
+Colorspace
+Resolution
+exif:MeteringMode
+21
+skewness
+55
+exif:DateTimeDigitized
+exif:thumbnail:InteroperabilityIndex
+15
+8
+Matte color
+exif:FNumber
+Background color
+Tainted
+png:pHYs
+exif:ExifOffset
+exif:FlashPixVersion
+27
+exif:SceneType
 Geometry
+alpha
+Compose
+Image
+Number pixels
+exif:ExposureTime
+25
+red
+exif:FocalLength
+Filesize
+Type
+11895
+38
+exif:BrightnessValue
+Page geometry
+exif:MakerNote
+50
+Compression
+exif:InteroperabilityOffset
+blue primary
+14
+jpeg:colorspace
+min
+18
+exif:Orientation
 exif:Saturation
+52
+png:sRGB
+exif:DigitalZoomRatio
+exif:SceneCaptureType
+32
+Iterations
+Intensity
+Pixels per second
+Transparent color
+red primary
+Elapsed time
+13
+49
+16
+28
+exif:ExifVersion
+date:create
 Units
+Print size
+png:IHDR.width,height
+exif:YCbCrPositioning
+exif:Sharpness
+Base type
 mean
 45
-green primary
-18
-Number pixels
-exif:thumbnail:InteroperabilityIndex
-png:pHYs
-exif:ComponentsConfiguration
-exif:CustomRendered
-Page geometry
-Rendering intent
-User time
-19
-8
-exif:ExposureMode
-exif:XResolution
-signature
-14
-Print size
-Type
-Iterations
-Matte color
-24
-exif:InteroperabilityOffset
+Profile-exif
+Mime type
+png:IHDR.interlace_method
+exif:Flash
+Endianess
+exif:WhiteBalance
 exif:thumbnail:Compression
-exif:Orientation
-Compose
-jpeg:colorspace
-Depth
-min
-exif:DigitalZoomRatio
-Colors
-121
-38
-exif:ColorSpace
+exif:thumbnail:YResolution
+Pixels
+exif:ResolutionUnit
+exif:PixelXDimension
+verbose
+exif:thumbnail:XResolution
+png:IHDR.bit-depth-orig
+exif:ComponentsConfiguration
+max
 12
+34
+exif:thumbnail:JPEGInterchangeFormatLength
+Class
+36
+png:tIME
+4
+23
+19
+26
+3
+7
+Gamma

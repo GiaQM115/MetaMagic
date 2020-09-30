@@ -151,3 +151,159 @@ verbose
 Version
 white point
 Y Cb Cr Sub Sampling
+--------------------------------------------------
+Unchanged but Attempted:
+Bits Per Sample
+Error
+File Type Extension
+PageMediaRect
+File Type
+MIME Type
+Interlace
+PageMediaDimensions
+ModDate
+Directory
+Linearized
+Page Count
+PageMediaRotation
+Encoding Process
+Image Height
+PDF Version
+Filter
+NumberOfPages
+PdfID1
+User Access
+File Name
+Tagged PDF
+CreationDate
+ExifTool Version Number
+Bit Depth
+Color Components
+PageMediaNumber
+Megapixels
+Encryption
+Image Width
+Background Color
+Language
+PdfID0
+Image Size
+Color Type
+Y Cb Cr Sub Sampling
+File Permissions
+--------------------------------------------------
+ImageMagick Only Tags:
+exif:PixelXDimension
+exif:Make
+Filesize
+Image
+kurtosis
+Quality
+min
+Background color
+exif:SceneCaptureType
+date:create
+exif:CustomRendered
+png:sRGB
+verbose
+exif:ExifOffset
+red primary
+red
+Class
+Profile-exif
+Border color
+Dispose
+exif:FocalLength
+exif:PixelYDimension
+exif:Model
+Matte color
+Number pixels
+exif:thumbnail:XResolution
+exif:InteroperabilityOffset
+exif:SceneType
+exif:YCbCrPositioning
+exif:ShutterSpeedValue
+png:IHDR.color_type
+green primary
+exif:thumbnail:JPEGInterchangeFormatLength
+exif:FlashPixVersion
+Iterations
+Base type
+max
+exif:LightSource
+Colorspace
+exif:thumbnail:InteroperabilityVersion
+exif:DigitalZoomRatio
+exif:FNumber
+Tainted
+Colors
+exif:thumbnail:Compression
+png:pHYs
+User time
+exif:ResolutionUnit
+Print size
+exif:DateTimeDigitized
+exif:ExposureMode
+green
+Elapsed time
+white point
+skewness
+exif:ComponentsConfiguration
+Resolution
+jpeg:sampling-factor
+Mime type
+blue
+exif:Orientation
+Intensity
+png:bKGD
+Pixels per second
+Rendering intent
+exif:YResolution
+exif:Contrast
+Gamma
+png:IHDR.interlace_method
+Geometry
+exif:MaxApertureValue
+exif:DateTimeOriginal
+exif:BrightnessValue
+Pixels
+exif:ApertureValue
+exif:thumbnail:JPEGInterchangeFormat
+entropy
+blue primary
+png:IHDR.bit-depth-orig
+alpha
+png:tIME
+Endianess
+exif:ExposureTime
+exif:DateTime
+exif:GPSInfo
+exif:Flash
+exif:Saturation
+Format
+exif:thumbnail:YResolution
+mean
+Page geometry
+exif:XResolution
+exif:Sharpness
+png:IHDR.bit_depth
+exif:MeteringMode
+signature
+Transparent color
+date:modify
+Depth
+exif:ExifVersion
+png:IHDR.color-type-orig
+exif:MakerNote
+Units
+filename
+jpeg:colorspace
+Version
+exif:WhiteBalance
+Compose
+exif:ColorSpace
+exif:thumbnail:InteroperabilityIndex
+exif:thumbnail:ResolutionUnit
+png:IHDR.width,height
+Type
+standard deviation
+identify-im6.q16
